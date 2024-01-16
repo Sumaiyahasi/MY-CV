@@ -1,0 +1,20 @@
+.container {
+    width: 90%;
+    margin  auto;
+    /* border: 1px solid black;*/ 
+}
+.pic {
+    height:100px;border: 1px solid black;width:90px;
+    text-align: center;
+    margin-left: 1000px;
+
+}
+.cv {
+    text-align: center;
+}
+section>ul>li {
+    list-style: none;
+}
+
+
+
